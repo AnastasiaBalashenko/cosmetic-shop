@@ -149,7 +149,6 @@ footer a:hover {
 }
 
 .shop-item .tag {
-    background: var(--yellow);
     border-radius: 4px;
     padding: 4px 8px;
     cursor: pointer;
@@ -161,7 +160,6 @@ footer {
 }
 
 #nothing-found {
-    color: var(--dark);
     position: absolute;
     white-space: nowrap;
     top: 50%;
